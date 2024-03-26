@@ -8,5 +8,5 @@ As most of the group members were fairly new to the college campus we didn't hav
 We First ventured to the library.
 
 In the library we found ***"The books that contained knowledge of digital media "***\ so to take a picture with all of them we decided to search it up and pose with it!
-<img src="static/Books knowledge.jpeg" alt="Books containing knowledge of digital media" width="300" class="center" >
+<img src="Books knowledge.jpeg" alt="Books containing knowledge of digital media" width="300" class="center" />
 
